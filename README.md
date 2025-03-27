@@ -10,3 +10,5 @@ Works on Windows 10 (I have not tested this on other operating systems, and it w
 
 # Special Thanks
 Thanks to VWHL3 for beta-testing this wonderful pile of sweetness.
+
+![Image](https://raw.githubusercontent.com/Aelyska/dotFUC/refs/heads/main/dotFUC-icon.png)
