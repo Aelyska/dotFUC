@@ -3,7 +3,7 @@ Horibbly ChatGPT-coded image-file protection [software](https://github.com/Aelys
 (This software is mainly satire and shouldn't be taken seriously.)
 
 # Special Thanks
-Thanks to VWHL3 for beta-testing this wonderful pile of sweetness.
+Thanks to VWH3 for beta-testing this wonderful pile of sweetness.
 
 # Terminology
 The official terminoloy for encrypting an image into FUC is called 'I am going to FUC this image.'
