@@ -1,5 +1,5 @@
 # dotFUC
-Horibbly ChatGPT-coded image-file protection software made in Python.
+Horibbly ChatGPT-coded image-file protection ![software](https://github.com/Aelyska/dotFUC/releases/download/Release/dotFUC.exe) made in Python.
 (This software is mainly satire and shouldn't be taken seriously.)
 
 # Terminology
