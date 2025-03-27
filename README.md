@@ -10,6 +10,7 @@ The official terminoloy for encrypting an image into FUC is called 'I am going t
 
 # Compatibility
 Works on Windows 10 (I have not tested this on other operating systems, and it will definitely not work on Linux.)
+Does not work on Windows XP 64-bit (Tested)
 
 # 許さないぞ…
 
